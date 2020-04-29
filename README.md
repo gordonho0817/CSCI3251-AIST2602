@@ -1,6 +1,6 @@
 1. # About Me
 My name is Ho Tsz Chun, Gordon, and I am a engineering student in CUHK.
-\nlove Elaine~ like IU
+love Elaine~ like IU
 
 2. ## Experience in GitHub
 I am so confused right now and i dont even know how can i upload this file to Github, I will figure out.
