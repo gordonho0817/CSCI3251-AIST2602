@@ -18,3 +18,4 @@ Github username | Gerder | age
 gordonho0817 | male | 21
 4. ## PIC:
 ![alt text](https://github.com/gordonho0817/CSCI3251-AIST2602/blob/master/forget.png)
+I forgot to screenshot last time, so i do it again.
